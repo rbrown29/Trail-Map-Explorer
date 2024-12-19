@@ -1,0 +1,67 @@
+# Node modules
+node_modules/
+package-lock.json/
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Build files
+build/
+dist/
+out/
+
+# Cache
+.cache/
+.eslintcache/
+.vscode/
+*.swp
+*.swo
+
+# Testing
+coverage/
+*.snap
+jest-html-reporters-*.html
+
+# IDE-specific
+.idea/
+*.iml
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+*.Spotlight-V100
+.Trashes
+._*
+
+# Windows (if working cross-platform)
+Thumbs.db
+Desktop.ini
+
+# Service workers
+service-worker.js
+precache-manifest*.js
+
+# Static export files (if using Next.js with React)
+out/
+
+# Storybook
+storybook-static/
+*.stories.mdx
+*.stories.js
+*.stories.ts
+*.stories.tsx
+
+# Miscellaneous
+public/*.hot-update.*
+node_modules
+package-lock.json
+.vscode
