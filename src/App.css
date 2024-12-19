@@ -1,0 +1,21 @@
+.custom-popup .mapboxgl-popup-content {
+  background: #2b2b2b !important; /* Dark background */
+  color: #ffffff; /* White text */
+  border-radius: 5px; /* Rounded corners */
+  padding: 10px; /* Padding for content */
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5); /* Optional shadow for better contrast */
+}
+
+.custom-popup .mapboxgl-popup-tip {
+  border-top-color: #2b2b2b !important; /* Match popup tip background */
+}
+
+.custom-popup .mapboxgl-popup-close-button {
+  color: #ffffff !important; /* White close button */
+  background: transparent; /* Transparent background */
+  border: none; /* Remove any border */
+  font-size: 16px; /* Adjust size if necessary */
+  font-weight: bold;
+  cursor: pointer;
+}
+
