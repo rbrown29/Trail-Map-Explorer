@@ -66,7 +66,11 @@ Trail Map Explorer is a React-based web application that displays hiking trails 
 - [AllTrails](https://www.alltrails.com/): Hiking trail data.
 - [OSM](https://www.openstreetmap.org/): Map data.
 
+## Deployment
+[Trail Map Explorer](https://trailmapexplorer.netlify.app/)
 
+
+## Screenshots
 ![Trail Map Explorer](/src/assets/TrailMap.png)
 
 ![Trail Map Explorer](/src/assets/TrailMapPopup.png)
